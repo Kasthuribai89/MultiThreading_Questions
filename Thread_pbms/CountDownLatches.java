@@ -4,7 +4,7 @@ import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ExecutorService;
 
-// Countdown latch is used to run a particular steps for particular number of times.
+// Countdown latch is used to run a particular steps for particular number of times. :)
 
 public class CountDownLatches 
 {
